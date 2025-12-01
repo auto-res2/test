@@ -1,0 +1,9 @@
+run_id: run-2-baseline-model-dataset
+method: baseline
+model:
+  name: example-model
+dataset:
+  name: example-dataset
+training:
+  batch_size: 32
+  learning_rate: 0.001

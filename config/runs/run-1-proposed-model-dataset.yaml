@@ -1,0 +1,9 @@
+run_id: run-1-proposed-model-dataset
+method: proposed
+model:
+  name: example-model
+dataset:
+  name: example-dataset
+training:
+  batch_size: 32
+  learning_rate: 0.001

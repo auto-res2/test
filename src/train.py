@@ -1,0 +1,2 @@
+# Training script
+print('Training...')
